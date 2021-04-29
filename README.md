@@ -1,7 +1,7 @@
- - 👋 Hi, I’m @neilkr17
- - 👀 I’m interested in coding
- - 🌱 I’m currently learning React Js
- - 📫 How to reach me rijal.sundar2001@hotmail.com
+ - 👋 Hi, I’m Sundar Rijal(@neilkr17)
+ - 👀 I’m interested in coding.
+ - 🌱 I’m currently learning React JS.
+ - 📫 How to reach me: rijal.sundar2001@hotmail.com
  - 💞️ I’m looking to collaborate on ...
 
 <!---
