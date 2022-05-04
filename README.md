@@ -1,6 +1,6 @@
  - 👋 Hi, I’m Sundar Rijal(@neilkr17)
  - 👀 I’m interested in coding.
- - 🌱 I’m currently learning React JS.
+ - 🌱 I’m currently working as a front-end developer.
  - 📫 How to reach me: rijal.sundar2001@hotmail.com
 
 <!---
